@@ -1,0 +1,12 @@
+{
+"createRepository":
+		{
+   			 "name":"repositoryName1",
+			"description":"This is your first repo",
+			"homepage":"https://github.com",
+			"has_issues":true,
+			"has_projects":true,
+			"has_wiki":true
+		}
+		
+}
